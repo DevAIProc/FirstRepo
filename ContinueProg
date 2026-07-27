@@ -1,0 +1,6 @@
+kool = 0
+while kool <10:
+    kool = kool+1
+    if kool == 5:
+        continue
+    print('kool' +str(kool))
